@@ -1,0 +1,1403 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"useS",
+				"useState"
+			],
+			[
+				"event",
+				"eventInfo"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"likes",
+				"likesIconImage"
+			],
+			[
+				"ins",
+				"instagramIconImage"
+			],
+			[
+				"insta",
+				"instagramIconImage"
+			],
+			[
+				"debou",
+				"debounceChangeHandler"
+			],
+			[
+				"deboun",
+				"debounceContent"
+			],
+			[
+				"get",
+				"getByText"
+			],
+			[
+				"report",
+				"reportStore"
+			],
+			[
+				"c",
+				"command"
+			],
+			[
+				"template",
+				"templateRegistry"
+			],
+			[
+				"EVER",
+				"EVERY_MINUTE"
+			],
+			[
+				"h-",
+				"h-1/2"
+			],
+			[
+				"set",
+				"setData"
+			],
+			[
+				"border-red-",
+				"border-red-200"
+			],
+			[
+				"border",
+				"border-2"
+			],
+			[
+				"bg-red",
+				"bg-red-100"
+			],
+			[
+				"Col",
+				"Col"
+			],
+			[
+				"Row",
+				"Row"
+			],
+			[
+				"w-fu",
+				"min-w-full"
+			],
+			[
+				"log",
+				"loginPage"
+			],
+			[
+				"on",
+				"onError"
+			],
+			[
+				"s",
+				"isDirty"
+			],
+			[
+				"p-",
+				"p-2"
+			],
+			[
+				"HTMLC",
+				"HTMLCanvasElement"
+			],
+			[
+				"remo",
+				"removeEventListener"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					2,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAALA",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "open-mr.ts",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"LSP: code",
+				"LSP: Run Code Lens"
+			],
+			[
+				"lspke",
+				"Preferences: LSP Key Bindings"
+			],
+			[
+				"openre",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"open",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"openrep",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"LSP: sym",
+				"LSP-typescript: Organize Imports"
+			],
+			[
+				"lspsym",
+				"LSP: Goto Symbol In Project"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				":w",
+				":$ - EOF"
+			],
+			[
+				"upda",
+				"Help: Check for Updates"
+			],
+			[
+				"newsn",
+				"PackageDev: New Raw Snippet"
+			],
+			[
+				"openrepo",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"qui",
+				"SublimeLinter: Quick Action"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"upogr",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"packageconsett",
+				"Preferences: Package Control Settings"
+			],
+			[
+				"packacon",
+				"Preferences: Package Control Settings"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"diag",
+				"LSP: Toggle Diagnostics Panel"
+			],
+			[
+				"white",
+				"Trim Trailing White Space"
+			],
+			[
+				"filehis",
+				"Sublime Merge: File History"
+			],
+			[
+				":q",
+				":$ - EOF"
+			],
+			[
+				"LSP: ",
+				"LSP-typescript: Find Callers"
+			],
+			[
+				"chan",
+				"Package Control: Add Channel"
+			],
+			[
+				"lspse",
+				"Preferences: LSP Settings"
+			],
+			[
+				"runc",
+				"LSP: Run Code Lens"
+			],
+			[
+				"codele",
+				"LSP: Run Code Lens"
+			],
+			[
+				"lspkey",
+				"Preferences: LSP Key Bindings"
+			],
+			[
+				":",
+				"UI: Customize Theme"
+			],
+			[
+				"debu",
+				"Debugger: Stop"
+			],
+			[
+				"debo",
+				"Debugger: Open"
+			],
+			[
+				"debugg",
+				"Preferences: Debugger Settings"
+			],
+			[
+				"de",
+				"Debugger: Start"
+			],
+			[
+				"deb",
+				"Debugger: Start"
+			],
+			[
+				"copyre",
+				"File: Copy Relative Path To Project"
+			],
+			[
+				"dupli",
+				"File: Duplicate"
+			],
+			[
+				"clos",
+				"File: Close All"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"lspsett",
+				"Preferences: LSP Settings"
+			],
+			[
+				"debuggers",
+				"Preferences: Debugger Settings"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"debug",
+				"Debugger: Start"
+			],
+			[
+				"debuse",
+				"Preferences: Debugger Settings"
+			],
+			[
+				"debuggerse",
+				"Preferences: Debugger Settings"
+			],
+			[
+				"orga",
+				"LSP-typescript: Organize Imports"
+			],
+			[
+				"next",
+				"GitGutter: Goto Next Change"
+			],
+			[
+				"debuggersett",
+				"Preferences: Debugger Settings"
+			],
+			[
+				"debuggsett",
+				"Preferences: Debugger Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Debugger: Install Adapters"
+			],
+			[
+				"org",
+				"LSP-typescript: Organize Imports"
+			],
+			[
+				"lspty",
+				"Preferences: LSP-typescript Settings"
+			],
+			[
+				"lsptype",
+				"Preferences: LSP-typescript Settings"
+			],
+			[
+				"terminke",
+				"Preferences: Terminus Key Bindings"
+			],
+			[
+				"terminse",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"termin",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"emmeke",
+				"Preferences: Emmet Key Bindings"
+			],
+			[
+				"emmetkey",
+				"Preferences: Emmet Key Bindings"
+			],
+			[
+				"emmetwr",
+				"Emmet: Wrap with Abbreviation"
+			],
+			[
+				"lsp",
+				"Preferences: LSP-tailwindcss Settings"
+			],
+			[
+				"lsptail",
+				"Preferences: LSP-tailwindcss Settings"
+			],
+			[
+				"lspsyn",
+				"LSP-typescript: Organize Imports"
+			],
+			[
+				"chann",
+				"Package Control: Add Channel"
+			],
+			[
+				"scop",
+				"Package Control: Discover Packages"
+			],
+			[
+				"scope",
+				"Selection: Expand to Scope"
+			],
+			[
+				"th",
+				"UI: Select Theme"
+			],
+			[
+				"break",
+				"Debugger: Add Function Breakpoint"
+			],
+			[
+				"debuggeratta",
+				"Debugger: Add or Select Configuration"
+			],
+			[
+				"debugger st",
+				"Debugger: Start"
+			],
+			[
+				"debuggeratt",
+				"Debugger: Start (no debug)"
+			],
+			[
+				"debst",
+				"Debugger: Start"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"lspta",
+				"Preferences: LSP-tailwindcss Settings"
+			],
+			[
+				"lspen",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"preflsp",
+				"Preferences: LSP Settings"
+			],
+			[
+				"stylel",
+				"Preferences: LSP-stylelint Settings"
+			],
+			[
+				"style",
+				"File: Copy as Tag style"
+			],
+			[
+				"eslin",
+				"Preferences: LSP-eslint Settings"
+			],
+			[
+				"prettierse",
+				"Preferences: JsPrettier Settings - Side-by-Side"
+			],
+			[
+				"prettier",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"prett",
+				"JsPrettier: Format Code"
+			],
+			[
+				"goto si",
+				"LSP: Goto Symbol In Project"
+			],
+			[
+				"mono",
+				"Monokai Pro: select theme"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 134.0,
+		"history":
+		[
+			"view.settings().get('syntax')",
+			"view.settings().get('scope')",
+			"view.settings().get('syntax')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/lev/Projects/personal/gitlab-open-mr"
+	],
+	"file_history":
+	[
+		"/Users/lev/Projects/personal/deno/Packages/User/Preferences.sublime-settings",
+		"/Users/lev/Projects/zencity/report-generator-client/src/styles/editor.scss",
+		"/Users/lev/Projects/zencity/report-generator-client/.gitlab-ci.yml",
+		"/Users/lev/Projects/zencity/report-generator-client/src/layouts/ReportEditorLayout/ReportEditorLayout.tsx",
+		"/Users/lev/Projects/zencity/report-generator-client/src/index.scss",
+		"/Users/lev/Projects/zencity/report-generator-client/src/pages/ReportEditor/templates/partials/styles/channelBreakdown.module.scss",
+		"/Users/lev/Projects/zencity/report-generator-client/src/pages/ReportEditor/ReportEditor.module.scss",
+		"/Users/lev/Projects/zencity/report-generator-client/src/vendor/ckeditor5-31.0.0-npzyq9hn0ryo/sample/styles.css",
+		"/Users/lev/Projects/zencity/report-generator-client/src/pages/ReportEditor/templates/partials/partials.ts",
+		"/Users/lev/Projects/zencity/report-generator-client/src/pages/ReportEditor/ReportEditor.tsx",
+		"/Users/lev/Projects/zencity/report-generator-client/src/pages/ReportEditor/templates/partials/styles/general.module.scss",
+		"/Users/lev/Projects/zencity/report-generator-client/src/types/reportData.ts",
+		"/Users/lev/Projects/zencity/report-generator-client/src/utils/structureReportData.ts",
+		"/Users/lev/Projects/zencity/report-generator-client/src/pages/ReportEditor/templates/partials/styles/sentimentSummary.module.scss",
+		"/Users/lev/Projects/zencity/report-generator-client/src/pages/ReportEditor/templates/partials/styles/mostPopularTopics.module.scss",
+		"/Users/lev/Projects/zencity/report-generator-client/src/pages/ReportEditor/templates/partials/styles/dataItem.module.scss",
+		"/Users/lev/Projects/zencity/report-generator-client/.git/COMMIT_EDITMSG",
+		"/Users/lev/Projects/zencity/report-generator-client/src/pages/ReportEditor/ReportEditor.helpers.tsx",
+		"/Users/lev/Projects/zencity/report-generator-client/src/ReportGenerator/ReportGenerator.tsx",
+		"/Users/lev/Projects/zencity/report-generator-client/typings/declaration.d.ts",
+		"/Users/lev/Projects/zencity/report-generator-client/src/utils/exportPdf.ts",
+		"/Users/lev/Projects/zencity/report-generator-client/src/pages/ReportEditor/templates/executiveSummary.ts",
+		"/Users/lev/Projects/zencity/report-generator-client/src/pages/ReportEditor/templates/partials/iconsPartials.ts",
+		"/Users/lev/Projects/zencity/report-generator-client/src/img/arrow-up-icon.svg",
+		"/Users/lev/Projects/zencity/report-generator-client/src/img/comments-icon.svg",
+		"/Users/lev/Projects/zencity/report-generator-client/src/img/share-icon.svg",
+		"/Users/lev/Projects/zencity/report-generator-client/src/img/likes-icon.svg",
+		"/Users/lev/Projects/zencity/report-generator-client/src/img/facebook-icon.svg",
+		"/Users/lev/Projects/zencity/report-generator-client/src/img/twitter-icon.svg",
+		"/Users/lev/Projects/zencity/report-generator-client/src/pages/ReportEditor/templates/headersPartials.ts",
+		"/Users/lev/Projects/zencity/report-generator-client/src/img/instagram-icon.svg",
+		"/Users/lev/Projects/zencity/report-generator-client/src/constants/editor.ts",
+		"/Users/lev/Projects/zencity/report-generator-client/src/pages/ReportEditor/ReportEditor.spec.tsx",
+		"/Users/lev/Projects/zencity/report-generator-client/Dockerfile",
+		"/Users/lev/Projects/zencity/report-generator-client/package-lock.json",
+		"/Users/lev/Projects/zencity/report-generator-client/.env.development",
+		"/Users/lev/Projects/zencity/report-generator-client/node_modules/squirrelly/dist/types/index.d.ts",
+		"/Users/lev/.zshrc",
+		"/Users/lev/Projects/zencity/community/client/webpack.config.common.js",
+		"/Users/lev/Projects/zencity/community/client/stores/ReportStore.ts",
+		"/Users/lev/Projects/zencity/community/client/admin/screens/ReportGenerator/ReportHelpers.ts",
+		"/Users/lev/Projects/zencity/community/client/admin/components/DashboardWidget/ExportButton.jsx",
+		"/Users/lev/Projects/zencity/report-generator-client/src/pages/ReportEditor/templates/takeawaysPartials.ts",
+		"/Users/lev/Projects/zencity/report-generator-client/package.json",
+		"/Users/lev/Projects/zencity/report-generator-client/src/components/Button/Button.spec.tsx",
+		"/Users/lev/Projects/zencity/report-generator-client/src/contexts/ReportGeneratorContext.tsx",
+		"/Users/lev/Projects/zencity/report-generator-client/src/vendor/ckeditor5-31.0.0-npzyq9hn0ryo/sample/index.html",
+		"/Users/lev/Projects/zencity/report-generator-client/webpack/webpack.config.dev.js",
+		"/Users/lev/Projects/zencity/report-generator-client/webpack/webpack.config.common.js",
+		"/Users/lev/Projects/zencity/community/backend/api/services/subscriptions/publications/PublicationMessageBuilder.spec.ts",
+		"/Users/lev/Projects/zencity/community/backend/common/technical_services/logger.spec.ts",
+		"/Users/lev/Projects/zencity/community/backend/api/services/announcement/helpers.spec.ts",
+		"/Users/lev/Library/Application Support/Sublime Text/Packages/User/import.sublime-snippet",
+		"/Users/lev/Projects/zencity/community/backend/api/controllers/AnnouncementController.ts",
+		"/Users/lev/Projects/zencity/community/backend/api/services/subscriptions/publications/PublicationMessageBuilder.ts",
+		"/Users/lev/Projects/zencity/community/backend/config/cron/cron.ts",
+		"/Users/lev/Projects/zencity/community/backend/api/services/alerts/AlertsGenerator.ts",
+		"/Users/lev/Projects/zencity/community/backend/api/services/announcement/publishAllAnnouncements.ts",
+		"/Users/lev/Projects/zencity/community/backend/api/services/announcement/BaseAnnouncementPublishService.ts",
+		"/Users/lev/Projects/zencity/community/backend/api/services/subscriptions/ScheduledPublicationsService.ts",
+		"/Users/lev/Projects/zencity/community/backend/api/services/announcement/helpers.ts",
+		"/Users/lev/Projects/zencity/community/backend/microservices/DataItemsConnectorTasksService/dataItemsConnectorTasksScheduler.ts",
+		"/Users/lev/Projects/zencity/community/backend/commands/generateAlerts.ts",
+		"/Users/lev/Projects/zencity/community/backend/api/services/subscriptions/publications/publicationMessageBuilders/NewProjectMessageBuilder.ts",
+		"/Users/lev/Projects/zencity/community/backend/api/services/userAnalytics/analyticsChannels/amplitudeAnalyticsChannels/AmplitudeHandler.ts",
+		"/Users/lev/Projects/zencity/community/backend/api/services/userAnalytics/analyticsChannels/amplitudeAnalyticsChannels/AmplitudeHandler.js",
+		"/Users/lev/Projects/zencity/community/backend/package.json",
+		"/Users/lev/Projects/zencity/community/backend/backend.sublime-project",
+		"/Users/lev/Library/Application Support/Sublime Text/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/lev/Projects/personal/project-you/node_modules/react-markdown-editor-lite/cjs/index.d.ts",
+		"/Users/lev/Projects/personal/project-you/resources/js/Components/Col.tsx",
+		"/Users/lev/Projects/personal/project-you/resources/js/Components/Input.tsx",
+		"/Users/lev/Projects/personal/project-you/resources/js/Pages/Auth/Login.tsx",
+		"/Users/lev/Projects/personal/project-you/app/Controllers/Http/AppController.ts",
+		"/Users/lev/Projects/personal/project-you/providers/AppProvider.ts",
+		"/Users/lev/Projects/personal/project-you/.gitignore",
+		"/Users/lev/Projects/personal/project-you/node_modules/get-intrinsic/.eslintignore",
+		"/Users/lev/Projects/personal/project-you/node_modules/@adonisjs/http-server/build/adonis-typings/route.d.ts",
+		"/Users/lev/Projects/personal/project-you/app/Controllers/Http/AuthController.ts",
+		"/Users/lev/Projects/personal/project-you/node_modules/@eidellev/inertia-adonisjs/build/adonis-typings/context.d.ts",
+		"/Users/lev/Projects/personal/project-you/node_modules/@eidellev/inertia-adonisjs/build/adonis-typings/inertia.d.ts",
+		"/Users/lev/Projects/personal/project-you/app/Controllers/Http/TasksController.ts",
+		"/Users/lev/Projects/personal/project-you/resources/views/app.edge",
+		"/Users/lev/Projects/personal/project-you/resources/js/Components/Button.tsx",
+		"/Users/lev/Projects/personal/project-you/resources/js/Components/Label.tsx",
+		"/Users/lev/Projects/personal/project-you/public/img/login-background.jpg",
+		"/Users/lev/Projects/personal/project-you/tailwind.config.js",
+		"/Users/lev/Projects/personal/project-you/resources/js/Pages/Tasks/IndexPage/IndexPage.tsx",
+		"/Users/lev/Projects/personal/project-you/resources/js/Components/PageHeader.tsx",
+		"/Users/lev/Projects/personal/project-you/project-you.sublime-project",
+		"/Users/lev/Projects/personal/project-you/node_modules/@adonisjs/fold/build/src/Ioc/Injector.js",
+		"/Users/lev/Projects/personal/project-you/package.json",
+		"/Users/lev/Projects/personal/project-you/database/migrations/1636916044699_add_task_orders.ts",
+		"/Users/lev/Projects/personal/project-you/resources/css/app.css",
+		"/Users/lev/Projects/zencity/report-generator-client/.editorconfig",
+		"/Users/lev/Projects/zencity/report-generator-client/node_modules/lodash/partial.js",
+		"/Users/lev/Library/Application Support/Sublime Text/Packages/User/JsPrettier.sublime-settings",
+		"/Users/lev/Projects/zencity/report-generator-client/src/i18n/index.ts",
+		"/Users/lev/Projects/zencity/report-generator-client/node_modules/@types/react/index.d.ts"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"bracket_highlighter.busy": false,
+							"default_dir": "/Users/lev/Projects/zencity/report-generator-client/src/styles",
+							"git_gutter_is_enabled": false,
+							"lsp_uri": "buffer://sublime/129",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "open-mr.ts",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".\"'/@<",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "LSP-typescript"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"git_gutter_is_enabled": true,
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
+							"lsp_uri": "file:///Users/lev/Projects/personal/gitlab-open-mr/open-mr.ts",
+							"show_definitions": false,
+							"syntax": "Packages/JavaScript/TypeScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 54.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Debugger":
+	{
+		"height": 277.0
+	},
+	"output.Debugger: Console":
+	{
+		"height": 0.0
+	},
+	"output.Debugger: Protocol":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 585.0
+	},
+	"output.diagnostics":
+	{
+		"height": 175.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.language servers":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.references":
+	{
+		"height": 327.0
+	},
+	"pinned_build_system": "",
+	"project": "gitlab-open-mr.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"open",
+				"open-mr.ts"
+			],
+			[
+				"editor",
+				"src/styles/editor.scss"
+			],
+			[
+				"editoscss",
+				"src/styles/editor.scss"
+			],
+			[
+				"gitl",
+				".gitlab-ci.yml"
+			],
+			[
+				"layout",
+				"src/layouts/ReportEditorLayout/ReportEditorLayout.tsx"
+			],
+			[
+				"analy",
+				"src/services/analytics.ts"
+			],
+			[
+				"reported",
+				"src/pages/ReportEditor/ReportEditor.tsx"
+			],
+			[
+				"en",
+				"utils/i18n/locales/en.js"
+			],
+			[
+				"layou",
+				"webpages-server/views/layout.ejs"
+			],
+			[
+				"plan",
+				"src/js/PlanhatIntegration.js"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"scss",
+				"src/styles/vars.scss"
+			],
+			[
+				"vars",
+				"src/styles/vars.scss"
+			],
+			[
+				"data",
+				"src/pages/ReportEditor/templates/partials/styles/dataItem.module.scss"
+			],
+			[
+				"export",
+				"src/utils/exportPdf.ts"
+			],
+			[
+				"webpac",
+				"webpack/webpack.config.common.js"
+			],
+			[
+				"likes",
+				"src/img/likes-icon.svg"
+			],
+			[
+				"icons",
+				"src/pages/ReportEditor/templates/partials/iconsPartials.ts"
+			],
+			[
+				"part",
+				"src/pages/ReportEditor/templates/partials/partials.ts"
+			],
+			[
+				"stylesedi",
+				"src/styles/editor.scss"
+			],
+			[
+				"indexs",
+				"src/index.scss"
+			],
+			[
+				"dataitem",
+				"src/pages/ReportEditor/templates/partials/styles/dataItem.module.scss"
+			],
+			[
+				"channel",
+				"src/pages/ReportEditor/templates/partials/styles/channelBreakdown.module.scss"
+			],
+			[
+				"sentim",
+				"src/pages/ReportEditor/templates/partials/styles/sentimentSummary.module.scss"
+			],
+			[
+				"report",
+				"src/ReportGenerator/ReportGenerator.tsx"
+			],
+			[
+				"arrow",
+				"src/img/arrow-up-icon.svg"
+			],
+			[
+				"execs",
+				"src/pages/ReportEditor/templates/executiveSummary.ts"
+			],
+			[
+				"partia",
+				"src/pages/ReportEditor/templates/partials/partials.ts"
+			],
+			[
+				"mostp",
+				"src/pages/ReportEditor/templates/partials/styles/mostPopularTopics.module.scss"
+			],
+			[
+				"reporteditor",
+				"src/pages/ReportEditor/ReportEditor.tsx"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"reportspec",
+				"src/pages/ReportEditor/ReportEditor.spec.tsx"
+			],
+			[
+				"deve",
+				".env.development"
+			],
+			[
+				"dock",
+				"Dockerfile"
+			],
+			[
+				"expo",
+				"src/utils/exportPdf.ts"
+			],
+			[
+				"heade",
+				"src/pages/ReportEditor/templates/headersPartials.ts"
+			],
+			[
+				"header",
+				"src/pages/ReportEditor/templates/headersPartials.ts"
+			],
+			[
+				"editorhelpe",
+				"src/pages/ReportEditor/ReportEditor.helpers.tsx"
+			],
+			[
+				"executivets",
+				"src/pages/ReportEditor/templates/executiveSummary.ts"
+			],
+			[
+				"helpers",
+				"src/pages/ReportEditor/ReportEditor.helpers.tsx"
+			],
+			[
+				"layo",
+				"webpages-server/views/layout.ejs"
+			],
+			[
+				"webpageswrver",
+				"webpages-server/middlewares/koaDevMiddleware.js"
+			],
+			[
+				"webpagessercmidd",
+				"webpages-server/middlewares/redirectIe11UsersToOldDomain.js"
+			],
+			[
+				"reports",
+				"stores/ReportStore.ts"
+			],
+			[
+				"admin",
+				"routes-admin.js"
+			],
+			[
+				"pageexport",
+				"admin/components/AdminBar/PageExportButton.jsx"
+			],
+			[
+				"reportgene",
+				"admin/screens/ReportGenerator/ReportGenerator.tsx"
+			],
+			[
+				"testdataitecon",
+				"test/functional/api/testDataItemController.ts"
+			],
+			[
+				"dataitemcont",
+				"api/controllers/DataItemController.ts"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"twitterthrefiller",
+				"test/functional/components/testTwitterThreadFiller.ts"
+			],
+			[
+				"context",
+				"src/contexts/EditorContext.tsx"
+			],
+			[
+				"srcindexhtml",
+				"src/vendor/ckeditor5-31.0.0-npzyq9hn0ryo/sample/index.html"
+			],
+			[
+				"dev",
+				"webpack/webpack.config.dev.js"
+			],
+			[
+				"alertge",
+				"api/services/alerts/AlertsGenerator.ts"
+			],
+			[
+				"spec",
+				"common/technical_services/logger.spec.ts"
+			],
+			[
+				"spec.",
+				"api/services/announcement/helpers.spec.ts"
+			],
+			[
+				"publicationmess",
+				"api/services/subscriptions/publications/PublicationMessageBuilder.ts"
+			],
+			[
+				"AmplitudeHandler",
+				"api/services/userAnalytics/analyticsChannels/amplitudeAnalyticsChannels/AmplitudeHandler.ts"
+			],
+			[
+				"configcron",
+				"config/cron/cron.ts"
+			],
+			[
+				"api/services/subscriptions/publications/publicationMessageBuilders/NewProjectMessageBuilder.ts",
+				"api/services/subscriptions/publications/publicationMessageBuilders/NewProjectMessageBuilder.ts"
+			],
+			[
+				"announcemcon",
+				"api/controllers/AnnouncementController.ts"
+			],
+			[
+				"projectedi",
+				"superadmins/components/ProjectEditForm/ProjectEditor.jsx"
+			],
+			[
+				"api",
+				"api.js"
+			],
+			[
+				"index",
+				"resources/js/Pages/Tasks/IndexPage/IndexPage.tsx"
+			],
+			[
+				"appcss",
+				"resources/css/app.css"
+			],
+			[
+				"css",
+				"resources/css/app.css"
+			],
+			[
+				"inpu",
+				"resources/js/Components/Input.tsx"
+			],
+			[
+				"taskinde",
+				"resources/js/Pages/Tasks/IndexPage/IndexPage.tsx"
+			],
+			[
+				"create",
+				"resources/js/Pages/Tasks/Create.tsx"
+			],
+			[
+				"creater",
+				"app/Controllers/Http/AuthController.ts"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"taskfo",
+				"resources/js/Pages/Tasks/TaskForm.tsx"
+			],
+			[
+				".giti",
+				".gitignore"
+			],
+			[
+				"gititgnoe",
+				"node_modules/get-intrinsic/.eslintignore"
+			],
+			[
+				"tasksc",
+				"app/Controllers/Http/TasksController.ts"
+			],
+			[
+				"authcon",
+				"app/Controllers/Http/AuthController.ts"
+			],
+			[
+				"logintsx",
+				"resources/js/Pages/Auth/Login.tsx"
+			],
+			[
+				"handler",
+				"app/Exceptions/Handler.ts"
+			],
+			[
+				"start/",
+				"start/inertia.ts"
+			],
+			[
+				"middleauth",
+				"app/Middleware/Auth.ts"
+			],
+			[
+				"auth",
+				"app/Controllers/Http/AuthController.ts"
+			],
+			[
+				"login",
+				"resources/js/Pages/Auth/Login.tsx"
+			],
+			[
+				"app.ed",
+				"resources/views/app.edge"
+			],
+			[
+				"button",
+				"resources/js/Components/Button.tsx"
+			],
+			[
+				"tasks",
+				"app/Controllers/Http/TasksController.ts"
+			],
+			[
+				"sublimepro",
+				"project-you.sublime-project"
+			],
+			[
+				"taskcontroll",
+				"app/Controllers/Http/TasksController.ts"
+			],
+			[
+				"add_Tas",
+				"database/migrations/1636916044699_add_task_orders.ts"
+			],
+			[
+				".css",
+				"resources/css/app.css"
+			],
+			[
+				"tailwin",
+				"tailwind.config.js"
+			],
+			[
+				"tail",
+				"tailwind.config.js"
+			],
+			[
+				"butt",
+				"resources/js/Components/Button.tsx"
+			],
+			[
+				"indexpa",
+				"resources/js/Pages/Tasks/IndexPage/IndexPage.tsx"
+			],
+			[
+				"editocon",
+				".editorconfig"
+			],
+			[
+				"editorsc",
+				"src/styles/editor.scss"
+			],
+			[
+				"partialsts",
+				"src/pages/ReportEditor/templates/partials.ts"
+			],
+			[
+				"repor",
+				"src/ReportGenerator/ReportGenerator.tsx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 101.0,
+		"last_filter": "wrapper",
+		"selected_items":
+		[
+			[
+				"wrapper",
+				"previewWrapper"
+			],
+			[
+				"hiddn",
+				"hidden"
+			],
+			[
+				"",
+				"bar"
+			],
+			[
+				"wordc",
+				"wordCloudReady"
+			],
+			[
+				"export",
+				"exportDocument"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
