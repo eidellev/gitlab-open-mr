@@ -1,10 +1,23 @@
 import { open } from "https://deno.land/x/opener/mod.ts";
 import { branch, remoteUrl } from "./git.ts";
-import { getTargetBranch, transformRemoteUrl } from "./helpers.ts";
+import { parseArgs, transformRemoteUrl } from "./helpers.ts";
 
-const targetBranch = getTargetBranch();
+const { targetBranch, help } = parseArgs();
 
-console.log({ targetBranch });
+if (help) {
+  console.log(
+    "%cOpen a new merge request in gitlab",
+    "font-weight: bold",
+  );
+  console.log("\n%cEXAMPLE:", "text-decoration: underline");
+  console.log("%copen-mr --target main", "color: green");
+  console.log("\n%cOPTIONS:", "text-decoration: underline");
+  console.log("\t--help");
+  console.log("\t\tPrints help information");
+  console.log("\t--target");
+  console.log("\t\tSets target branch");
+}
+
 const sourceBranch = await branch();
 const remote = await remoteUrl();
 const newMergeRequestUrl = transformRemoteUrl(

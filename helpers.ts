@@ -18,11 +18,12 @@ export function transformRemoteUrl(
   return `https://gitlab.com/${organization}/${team}/${project}/-/merge_requests/new?merge_request[source_branch]=${sourceBranch}&merge_request[target_branch]=${targetBranch}`;
 }
 
-export function getTargetBranch() {
-  const { target: targetBranch } = parse(Deno.args, {
+export function parseArgs() {
+  const { target: targetBranch, help } = parse(Deno.args, {
     string: ["target"],
-    default: { target: "main" },
+    boolean: ["help"],
+    default: { target: "main", help: false },
   });
 
-  return targetBranch;
+  return { targetBranch, help };
 }
